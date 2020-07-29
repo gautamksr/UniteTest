@@ -4,3 +4,7 @@
 
 /.vs
 /WebApi/bin/Debug/netcoreapp3.1
+/NUnitWebApi/bin/Debug/netcoreapp3.1
+/NUnitWebApi/obj
+/WebApi/.vs/WebApi
+/WebApi/obj
